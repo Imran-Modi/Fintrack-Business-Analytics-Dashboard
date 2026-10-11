@@ -14,8 +14,8 @@ The project transforms sales data into an interactive dashboard to identify impo
 - [Tools & Technologies](#tools--technologies)
 - [Data Cleaning & Preparation](#data-cleaning--preparation)
 - [Dashboard KPIs](#dashboard-kpis)
+- [Dashboard Screenshots](#dashboard-Screenshots)
 - [Key Findings](#key-findings)
-- [Dashboard](#dashboard)
 - [Business Insights](#business-insights)
 - [Project Structure](#project-structure)
 - [Author](#author)
@@ -105,6 +105,15 @@ The data cleaning & preparation process includes:
 
 ---
 
+### 📊Dashboard Screenshots
+![FinTrack Sales Dashboard](Dashboard.png)
+
+---
+### 🔍Key Findings
+![Key Findings](Key-findings.png)
+
+---
+
 ### 🔍Key Findings
 
 ### Product Performance
@@ -135,16 +144,6 @@ Low discounts generated lower sales than medium and high discounts but produced 
 
 ### 📈Seasonal Trends
 Sales performance was stronger during **September, October, November, and December**, while several months earlier in the year showed comparatively lower sales performance.
-
----
-
-### 📊Dashboard
-![FinTrack Sales Dashboard](Dashboard.png)
-
----
-
-### 🔍Key Findings
-![Key Findings](Key-findings.png)
 
 ---
 
