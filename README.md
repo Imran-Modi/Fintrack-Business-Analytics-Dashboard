@@ -33,6 +33,16 @@ The objective of this project is to analyze historical sales data and identify:
 - Impact of discounts on sales and profit
 - Opportunities for improving profitability
 ---
+### Project Objectives
+The main objectives of the FinTrack project is to:
+- Develop analytical thinking through financial data exploration.
+- Gain proficiency in Excel tools such as Pivot Tables, Pivot Charts, slicers, and
+  timelines.
+-  Create interactive dashboards that effectively visualize key financial indicators.
+- Enhance data-driven storytelling by presenting insights clearly and concisely.
+- Simulate a real-world financial analytics experience to improve career readiness.
+
+---
 
 ### 📂Dataset
 
@@ -66,7 +76,7 @@ The dataset contains sales-related information including:
 - Enterprise
 ---
 
-### 🛠️Tools & Technologies
+### Tools & Technologies
 
 - Microsoft Excel
 - Pivot Tables
