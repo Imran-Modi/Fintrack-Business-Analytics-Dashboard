@@ -45,7 +45,6 @@ The main objectives of the FinTrack project is to:
 ---
 
 ### 📂Dataset
-
 The dataset contains sales-related information including:
 - Year
 - Country
@@ -60,7 +59,6 @@ The dataset contains sales-related information including:
 - Units Sold
 
 ### Countries
-
 - Canada
 - France
 - Germany
@@ -68,7 +66,6 @@ The dataset contains sales-related information including:
 - United States
 
 ### Market Segments
-
 - Government
 - Small Business
 - Channel Partners
@@ -88,8 +85,7 @@ The dataset contains sales-related information including:
 
 ### Data Cleaning & Preparation
 
-The data preparation process involved reviewing and preparing the sales data for analysis and dashboard creation.
-Key preparation activities included:
+The data cleaning & preparation process includes:
 1. Checking for duplicate records
 2. Checking for missing values
 3. Standardizing categorical fields
