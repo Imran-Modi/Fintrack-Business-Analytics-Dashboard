@@ -9,6 +9,7 @@ The project transforms sales data into an interactive dashboard to identify impo
 ### 📑Table of Contents
 
 - [Problem Statement](#problem-statement)
+- [Project Objectives](#project-objectives)
 - [Dataset](#dataset)
 - [Tools & Technologies](#tools--technologies)
 - [Data Cleaning & Preparation](#data-cleaning--preparation)
