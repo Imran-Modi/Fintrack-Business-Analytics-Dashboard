@@ -153,7 +153,19 @@ The dashboard can help management:
 ---
 
 ### 📂Project Structure
-<ul> <li><strong>Excel-Fintrack-Business-Analytics-Dashboard/</strong> <ul> <li>README.md</li> <li><strong>data/</strong> <ul> <li>fintracksalesdata.xlsx</li> </ul> </li> <li><strong>dashboard/</strong> <ul> <li>FinTrackSalesDashboard.xlsx</li> </ul> </li> <li><strong>images/</strong> <ul> <li>dashboard.png</li> <li>key-findings.png</li> </ul> </li> <li><strong>documentation/</strong> <ul> <li>project-summary.md</li> </ul> </li> </ul> </li> </ul>
+```text
+Excel-Fintrack-Business-Analytics-Dashboard/
+├── README.md
+├── data/
+│   └── fintracksalesdata.xlsx
+├── dashboard/
+│   └── FinTrackSalesDashboard.xlsx
+├── images/
+│   ├── dashboard.png
+│   └── key-findings.png
+└── documentation/
+    └── project-summary.md
+```
     
 ### 📚Author
 ***Imran Modi***
